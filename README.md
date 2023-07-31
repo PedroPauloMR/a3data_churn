@@ -78,7 +78,7 @@
 # Modelo escolhido
 
 - Logistic Regression devido ao custo-benefício apresentado entre os dados balanceados e não balanceados
-- Métricas finais (threshold = 0.38)
+- Métricas finais (threshold = 0.63)
     - Precisão:  60,92 %
     - Recall:  61,14 %
 - Insights: estão no código e na apresentação disponibilizada na pasta **apresentações**
